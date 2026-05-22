@@ -7,7 +7,7 @@ I am a Software Developer and Graduate Technologist specializing in building sca
 
 ---
 
-## 🛠️ Tech Stack & Cloud Ecosystem
+## Tech Stack & Cloud Ecosystem
 
 | Category | Technologies |
 | :--- | :--- |
@@ -18,26 +18,27 @@ I am a Software Developer and Graduate Technologist specializing in building sca
 
 ---
 
-## 🚀 Key Engineering Projects
+##  Key Engineering Projects
 
 * **Nexus LMS**
     * Designed and engineered a fully serverless internal Learning Management System on AWS. 
     * Implemented granular Identity and Access Management (IAM) and secure user federation using AWS Cognito.
     * Developed high-performance, cost-effective backend workflows leveraging AWS Lambda and DynamoDB.
+    Project Link:https://aptronics.org/
 
 * **Cross-Platform Application Frameworks**
     * Built lightweight, native desktop and mobile utilities utilizing Rust (Tauri) and Expo to achieve minimal runtime overhead and seamless system-level integration.
 
 ---
 
-## 📜 Professional Credentials
+##  Professional Credentials
 
 * **AWS Certified Cloud Practitioner (CCP)** – Amazon Web Services
 * **Graduate Member (Candidate)** – Malaysia Board of Technologists (MBOT)
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Hariz's GitHub Stats" height="180" />
