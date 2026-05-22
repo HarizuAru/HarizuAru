@@ -49,8 +49,8 @@ I am a Software Developer and Graduate Technologist specializing in building sca
 
 ## 🌐 Connect With Me
 
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/YOUR_LINKEDIN)
-* **Email:** your.email@example.com
+* **LinkedIn:** https://www.linkedin.com/in/hariz-iskandar-9a2817251/?locale=en
+* **Email:** hariziskandar0504@gmail.com
 * **Languages:** Malay (Native) | English (Professional) | German (Learning A1/A2 🇩🇪)
 
 ---
