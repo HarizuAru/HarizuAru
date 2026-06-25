@@ -6,7 +6,7 @@ Based in Selangor, Malaysia 🇲🇾
 I am a Software Developer and specializing in building scalable, resilient, and highly efficient cloud-native applications. My core expertise lies in designing serverless architectures, multi-cloud integrations, and robust backend ecosystems, balanced with a deep understanding of frontend and cross-platform frameworks.
 <div align="center">
   <p>
-    <a href="www.linkedin.com/in/hariz-iskandar-9a2817251/">
+    <a href="https://www.linkedin.com/in/hariz-iskandar-9a2817251/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
     </a>
     <a href="mailto:hariziskandar0504@gmail.com">
