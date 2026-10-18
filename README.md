@@ -1,215 +1,548 @@
-<!-- ═══════════════════════ HEADER ═══════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════
+  HARIZ ISKANDAR · @HarizuAru
+
+  CLOUD ENGINEERING · CLOUD SECURITY · BACKEND SYSTEMS
+
+  Theme
+  #050B16 · #0B1220 · #0891B2 · #22D3EE
+════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B16,30:0E7490,65:2563EB,100:22D3EE&height=240&section=header&text=HARIZ%20ISKANDAR&fontSize=48&fontColor=F8FAFC&fontAlignY=35&desc=CLOUD%20%E2%AC%A1%20NETWORKING%20%E2%AC%A1%20CYBERSECURITY&descSize=17&descAlignY=57&animation=twinkling" width="100%" alt="Animated Hariz Iskandar banner" />
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:050B16,35:0E7490,70:2563EB,100:22D3EE&height=210&section=header&text=HARIZ%20ISKANDAR&fontSize=48&fontColor=F8FAFC&fontAlignY=35&desc=CLOUD%20ENGINEERING%20%E2%AC%A1%20BACKEND%20SYSTEMS%20%E2%AC%A1%20CLOUD%20SECURITY&descSize=15&descAlignY=57&animation=twinkling"
+  alt="Hariz Iskandar"
+/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=%3E+Cloud+Engineer+%7C+Full-Stack+Developer;%3E+Exploring+Cloud+%26+Network+Security;%3E+Building+secure%2C+reliable+cloud-native+systems." alt="Animated terminal introduction" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2400&pause=950&color=22D3EE&center=true&vCenter=true&width=850&lines=Building+secure+and+resilient+cloud+systems;Serverless+%C2%B7+Automation+%C2%B7+Observability+%C2%B7+Security;Design+for+failure.+Automate+recovery.;AWS+Certified+Cloud+Practitioner"
+  alt="Cloud Engineering Introduction"
+/>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/hariz-iskandar-9a2817251/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:hariziskandar0504@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
+  <img src="https://img.shields.io/badge/Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://aptronics.org/">
+  <img src="https://img.shields.io/badge/Nexus_LMS-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<a href="#-the-person-behind-the-terminal">
-  <img src="https://img.shields.io/badge/About-0B1220?style=for-the-badge&logo=readme&logoColor=22D3EE" alt="About me" />
-</a>
-<a href="#-selected-work">
-  <img src="https://img.shields.io/badge/Projects-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE" alt="View projects" />
-</a>
-<a href="#-engineering-toolkit">
-  <img src="https://img.shields.io/badge/Tech_Stack-0B1220?style=for-the-badge&logo=stackshare&logoColor=22D3EE" alt="View tech stack" />
-</a>
-<a href="#-github-telemetry">
-  <img src="https://img.shields.io/badge/Activity-0B1220?style=for-the-badge&logo=githubactions&logoColor=22D3EE" alt="View GitHub activity" />
-</a>
+<img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-0B1220?style=flat-square&logo=amazonwebservices&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Focus-Cloud_Engineering-0B1220?style=flat-square&logo=icloud&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Location-Malaysia-0B1220?style=flat-square&logo=googlemaps&logoColor=22D3EE" />
 
 </div>
 
-<br/>
+---
 
-<!-- ═══════════════════════ ABOUT ════════════════════════ -->
+## `> whoami`
 
-## ⬡ The person behind the terminal
+```yaml
+name: Hariz Iskandar
+handle: "@HarizuAru"
+role: Cloud & Software Engineer
+location: Malaysia
 
-I’m **Hariz Iskandar**—a software developer building cloud-native applications and exploring the networks and security controls that keep them running.
+focus:
+  - Cloud Engineering
+  - Cloud Security
+  - Serverless Backend
+  - Networking
+  - Infrastructure Automation
 
-My interests span **serverless architecture, backend engineering, cloud infrastructure, and network security**.
+certification:
+  - AWS Certified Cloud Practitioner
+```
+
+I build **secure, resilient and observable cloud-native systems** with a focus on AWS infrastructure, serverless backends, networking, IAM, automation and reliability engineering.
+
+> **Build · Break · Observe · Recover · Improve**
+
+---
+
+## Engineering Focus
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
-### ☁️ Build
+### CLOUD
 
-**AWS · Azure · Serverless**
-
-Applications and backend services with an emphasis on reliability and efficient infrastructure.
+High availability  
+Serverless architecture  
+Event-driven systems  
+Disaster recovery  
+Infrastructure automation  
 
 </td>
+
 <td width="33%" valign="top">
 
-### 🌐 Connect
+### INFRASTRUCTURE
 
-**Networking · Cisco · Linux**
-
-Understanding connectivity, network fundamentals, and infrastructure design.
+VPC architecture  
+Network segmentation  
+Linux systems  
+Load balancing  
+Routing  
 
 </td>
+
 <td width="33%" valign="top">
 
-### 🛡️ Secure
+### SECURITY
 
-**IAM · Kali Linux · Nmap**
-
-Exploring access controls, network security, and security testing tools.
+IAM  
+Least privilege  
+Zero Trust  
+Identity federation  
+Security automation  
 
 </td>
+
 </tr>
 </table>
 
-<p>
-  <img src="https://img.shields.io/badge/Selangor%2C_Malaysia-0B1220?style=for-the-badge&logo=googlemaps&logoColor=22D3EE" alt="Based in Selangor, Malaysia" />
-  <img src="https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-0B1220?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS Certified Cloud Practitioner" />
-</p>
-
 ---
 
-<!-- ═══════════════════ SELECTED WORK ════════════════════ -->
+## Featured Project
 
-## ⬡ Selected work
+<table>
+<tr>
+
+<td width="64%" valign="top">
 
 ### Nexus LMS
 
-**A serverless learning management platform built on AWS.**
+**Serverless AI-Assisted Learning Platform**
 
-Designed and built an internal LMS with secure user access and serverless backend workflows.
+Cloud-native learning platform built around AWS serverless infrastructure, federated authentication, multi-role authorization and AI-assisted learning workflows.
 
-| Layer | Engineering |
-|:--|:--|
-| **Identity** | Amazon Cognito federation and granular IAM permissions |
-| **Compute** | AWS Lambda serverless workflows |
-| **Storage** | Amazon DynamoDB |
+```text
+Users
+  │
+  ▼
+Amazon Cognito
+  │
+  ▼
+API Layer
+  │
+  ▼
+AWS Lambda
+  │
+  ├── DynamoDB
+  ├── IAM
+  └── AI Services
+```
+
+</td>
+
+<td width="36%" align="center" valign="middle">
+
+### STACK
+
+<img src="https://skillicons.dev/icons?i=aws,react,nodejs,python&theme=dark" />
+
+<br/><br/>
 
 <a href="https://aptronics.org/">
-  <img src="https://img.shields.io/badge/Visit_Aptronics-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Aptronics" />
+  <img src="https://img.shields.io/badge/OPEN_LIVE_PROJECT-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
+
+</td>
+
+</tr>
+</table>
+
+<table>
+<tr>
+
+<td align="center">
+<b>IDENTITY</b><br/>
+Amazon Cognito
+</td>
+
+<td align="center">
+<b>SECURITY</b><br/>
+Least-Privilege IAM
+</td>
+
+<td align="center">
+<b>COMPUTE</b><br/>
+AWS Lambda
+</td>
+
+<td align="center">
+<b>DATA</b><br/>
+DynamoDB
+</td>
+
+<td align="center">
+<b>ARCHITECTURE</b><br/>
+Serverless
+</td>
+
+</tr>
+</table>
 
 ---
 
-<!-- ═════════════════ ENGINEERING TOOLKIT ════════════════ -->
+## Cloud Engineering Portfolio
 
-## ⬡ Engineering toolkit
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+**01 — Multi-Region Resilience**  
+High Availability · Failover · Recovery
+
+**02 — Self-Healing Infrastructure**  
+CloudWatch · EventBridge · Lambda
+
+**03 — Zero-Trust Cloud**  
+IAM · Cognito · Segmentation
+
+**04 — Blue-Green Deployment**  
+Health Gates · Automated Rollback
+
+**05 — Cloud Observability**  
+Metrics · Logs · SLOs · Alerts
+
+</td>
+
+<td width="50%" valign="top">
+
+**06 — Infrastructure Guardrails**  
+Governance · Policy Validation
+
+**07 — Enterprise Networking**  
+VPC · Routing · Segmentation
+
+**08 — Secrets Automation**  
+Credential Rotation · Secure Access
+
+**09 — FinOps Automation**  
+Optimization · Cost Governance
+
+**10 — Disaster Recovery**  
+RTO · RPO · Recovery Workflows
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## Technology Stack
 
 <div align="center">
 
-**CLOUD & BACKEND**
+### CLOUD & INFRASTRUCTURE
 
-<img src="https://skillicons.dev/icons?i=aws,azure,nodejs,flask,mysql&theme=dark" alt="AWS, Azure, Node.js, Flask, and MySQL" />
-
-<br/><br/>
-
-**LANGUAGES**
-
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,php,rust&theme=dark" alt="Java, Python, JavaScript, TypeScript, PHP, and Rust" />
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,ubuntu,git,github&theme=dark" />
 
 <br/><br/>
 
-**INTERFACES & CROSS-PLATFORM**
+### LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tauri&theme=dark" alt="React, HTML, CSS, Bootstrap, and Tauri" />
-
-<br/><br/>
-
-**NETWORKING & SECURITY**
-
-<img src="https://skillicons.dev/icons?i=linux,kali&theme=dark" alt="Linux and Kali Linux" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,rust,java,php,bash&theme=dark" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Cisco-0B1220?style=for-the-badge&logo=cisco&logoColor=22D3EE" alt="Cisco" />
-<img src="https://img.shields.io/badge/Nmap-0B1220?style=for-the-badge&logo=gnometerminal&logoColor=22D3EE" alt="Nmap" />
-<img src="https://img.shields.io/badge/Metasploit-0B1220?style=for-the-badge&logo=metasploit&logoColor=22D3EE" alt="Metasploit" />
+### APPLICATION DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask,tauri,html,css,bootstrap&theme=dark" />
+
+<br/><br/>
+
+### DATABASES
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
+
+<br/><br/>
+
+### SYSTEMS & SECURITY
+
+<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,docker,git&theme=dark" />
+
+<br/><br/>
+
+### AI & DATA
+
+<img src="https://skillicons.dev/icons?i=opencv,sklearn,pytorch,tensorflow&theme=dark" />
 
 </div>
 
-<details>
-<summary><b>⬡ More tools: AI, analytics, mobile, and data</b></summary>
+---
+
+## AWS Platform
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Lambda-0B1220?style=for-the-badge&logo=awslambda&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/EC2-0B1220?style=for-the-badge&logo=amazonec2&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/S3-0B1220?style=for-the-badge&logo=amazons3&logoColor=569A31" />
+<img src="https://img.shields.io/badge/DynamoDB-0B1220?style=for-the-badge&logo=amazondynamodb&logoColor=4053D6" />
+<img src="https://img.shields.io/badge/Cognito-0B1220?style=for-the-badge&logo=amazoncognito&logoColor=DD344C" />
 
 <br/>
 
-<p>
-  <img src="https://img.shields.io/badge/DynamoDB-0B1220?style=for-the-badge&logo=amazondynamodb&logoColor=22D3EE" alt="DynamoDB" />
-  <img src="https://img.shields.io/badge/OpenCV-0B1220?style=for-the-badge&logo=opencv&logoColor=22D3EE" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/scikit--learn-0B1220?style=for-the-badge&logo=scikitlearn&logoColor=22D3EE" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/OpenAI_API-0B1220?style=for-the-badge&logo=openai&logoColor=22D3EE" alt="OpenAI API" />
-  <img src="https://img.shields.io/badge/Tableau-0B1220?style=for-the-badge&logo=tableau&logoColor=22D3EE" alt="Tableau" />
-  <img src="https://img.shields.io/badge/React_Native-0B1220?style=for-the-badge&logo=react&logoColor=22D3EE" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-0B1220?style=for-the-badge&logo=expo&logoColor=22D3EE" alt="Expo" />
-</p>
+<img src="https://img.shields.io/badge/IAM-0B1220?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/API_Gateway-0B1220?style=for-the-badge&logo=amazonapigateway&logoColor=FF4F8B" />
+<img src="https://img.shields.io/badge/CloudWatch-0B1220?style=for-the-badge&logo=amazoncloudwatch&logoColor=FF4F8B" />
+<img src="https://img.shields.io/badge/EventBridge-0B1220?style=for-the-badge&logo=amazonwebservices&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Step_Functions-0B1220?style=for-the-badge&logo=amazonwebservices&logoColor=DD344C" />
 
-</details>
+<br/>
 
----
-
-<!-- ══════════════════ GITHUB TELEMETRY ══════════════════ -->
-
-## ⬡ GitHub telemetry
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=HarizuAru&show_icons=true&hide_border=true&hide_rank=true&bg_color=0B1220&title_color=22D3EE&text_color=CBD5E1&icon_color=38BDF8&include_all_commits=true" alt="GitHub contribution statistics" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarizuAru&layout=compact&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=CBD5E1&langs_count=8" alt="Programming languages used across repositories" />
-
-<br/><br/>
-
-<img width="65%" src="https://streak-stats.demolab.com?user=HarizuAru&hide_border=true&background=0B1220&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="GitHub contribution streak" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HarizuAru&bg_color=0B1220&color=94A3B8&line=22D3EE&point=F8FAFC&area=true&area_color=0891B2&hide_border=true" alt="GitHub contribution activity over time" />
+<img src="https://img.shields.io/badge/RDS-0B1220?style=for-the-badge&logo=amazonrds&logoColor=527FFF" />
+<img src="https://img.shields.io/badge/SQS-0B1220?style=for-the-badge&logo=amazonsqs&logoColor=FF4F8B" />
+<img src="https://img.shields.io/badge/SNS-0B1220?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/VPC-0B1220?style=for-the-badge&logo=amazonwebservices&logoColor=22D3EE" />
 
 </div>
 
-### Contributions in motion
+---
+
+## GitHub Performance
 
 <div align="center">
+
+<table>
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+<h3>PERFORMANCE</h3>
+
+<a href="https://github.com/HarizuAru">
+<img
+  width="100%"
+  src="https://github-readme-stats.vercel.app/api?username=HarizuAru&show_icons=true&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=CBD5E1&icon_color=38BDF8&include_all_commits=true&count_private=true"
+  alt="GitHub Statistics"
+/>
+</a>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<h3>LANGUAGES</h3>
+
+<a href="https://github.com/HarizuAru">
+<img
+  width="100%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarizuAru&layout=compact&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=CBD5E1&langs_count=8"
+  alt="Top Languages"
+/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<table>
+<tr>
+
+<td width="60%" align="center" valign="top">
+
+<h3>CONSISTENCY</h3>
+
+<a href="https://github.com/HarizuAru">
+<img
+  width="100%"
+  src="https://streak-stats.demolab.com?user=HarizuAru&hide_border=true&background=0B1220&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8"
+  alt="GitHub Contribution Streak"
+/>
+</a>
+
+</td>
+
+<td width="40%" align="center" valign="middle">
+
+<h3>ENGINEERING STACK</h3>
+
+<img src="https://skillicons.dev/icons?i=aws,linux,python,ts&theme=dark" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,docker,git&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/-Cloud-0B1220?style=for-the-badge&logo=icloud&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/-Security-0B1220?style=for-the-badge&logo=cloudflare&logoColor=22D3EE" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/-Serverless-0B1220?style=for-the-badge&logo=awslambda&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/-Automation-0B1220?style=for-the-badge&logo=githubactions&logoColor=22D3EE" />
+
+</td>
+
+</tr>
+</table>
+
+<table>
+<tr>
+
+<td width="100%" align="center">
+
+<h3>ENGINEERING ACTIVITY</h3>
+
+<a href="https://github.com/HarizuAru">
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=HarizuAru&bg_color=0B1220&color=94A3B8&line=22D3EE&point=F8FAFC&area=true&area_color=0891B2&hide_border=true&custom_title=Engineering%20Activity"
+  alt="GitHub Engineering Activity"
+/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<table>
+<tr>
+
+<td width="100%" align="center">
+
+<h3>CONTRIBUTION MAP</h3>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarizuAru/HarizuAru/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarizuAru/HarizuAru/output/github-contribution-grid-snake.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/HarizuAru/HarizuAru/output/github-contribution-grid-snake.svg" alt="Animated snake moving through my GitHub contribution grid" />
+
+<source
+  media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/HarizuAru/HarizuAru/output/github-contribution-grid-snake-dark.svg"
+/>
+
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/HarizuAru/HarizuAru/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+  width="100%"
+  src="https://raw.githubusercontent.com/HarizuAru/HarizuAru/output/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Map"
+/>
+
 </picture>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════ CONTACT ══════════════════════ -->
+## Engineering Direction
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=1800&color=22D3EE&center=true&vCenter=true&width=650&lines=%3E+Let%27s+build+something+useful." alt="Animated closing message" />
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+<img src="https://img.shields.io/badge/-CLOUD-0B1220?style=for-the-badge&logo=icloud&logoColor=22D3EE" />
+
+<br/><br/>
+
+Serverless  
+Resilience  
+Architecture  
+
+</td>
+
+<td width="25%" align="center">
+
+<img src="https://img.shields.io/badge/-SECURITY-0B1220?style=for-the-badge&logo=cloudflare&logoColor=22D3EE" />
+
+<br/><br/>
+
+IAM  
+Zero Trust  
+Networking  
+
+</td>
+
+<td width="25%" align="center">
+
+<img src="https://img.shields.io/badge/-AUTOMATION-0B1220?style=for-the-badge&logo=githubactions&logoColor=22D3EE" />
+
+<br/><br/>
+
+Events  
+Recovery  
+Deployment  
+
+</td>
+
+<td width="25%" align="center">
+
+<img src="https://img.shields.io/badge/-RELIABILITY-0B1220?style=for-the-badge&logo=grafana&logoColor=22D3EE" />
+
+<br/><br/>
+
+Observability  
+SLOs  
+Disaster Recovery  
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=1500&color=22D3EE&center=true&vCenter=true&width=820&lines=Secure+by+design.;Observable+by+default.;Built+to+recover.;Open+to+Cloud+Engineering+opportunities."
+  alt="Closing Message"
+/>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/hariz-iskandar-9a2817251/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+<img src="https://img.shields.io/badge/CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:hariziskandar0504@gmail.com">
-  <img src="https://img.shields.io/badge/Send_an_Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
+<img src="https://img.shields.io/badge/CONTACT-Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://aptronics.org/">
+<img src="https://img.shields.io/badge/VIEW-Nexus_LMS-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<sub>“Simplicity is the soul of efficiency.”</sub>
+<sub><b>Build · Break · Observe · Recover · Improve</b></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:0E7490,100:2563EB&height=120&section=footer&animation=twinkling" width="100%" alt="Animated blue wave footer" />
+<br/><br/>
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:0E7490,100:2563EB&height=100&section=footer&animation=twinkling"
+  alt="Footer"
+/>
 
 </div>
